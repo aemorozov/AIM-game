@@ -1,1 +1,2 @@
-# Первая игра, написанная на JS
+# My first JS game
+This is my first educational game
